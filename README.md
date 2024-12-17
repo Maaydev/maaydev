@@ -11,10 +11,39 @@ I am an Information Systems student, currently halfway through my degree. I am e
   -PHP
 - 👯 I look forward to collaborating on open source projects.
 - ✔ Ask me about anything, I'll be happy to help<br>
-- Outside of technology, 💜I love 📖 reading romance and fantasy books, 🎮 playing video games, 🎵 listening to music and 🧘🏻‍♀️ pilates.
+- Outside of technology, 📖 I love reading romance and fantasy books, 🎮 playing video games, 🎵 listening to music and 🧘🏻‍♀️ pilates.
 
-- 📫 Contact me at: <a href="adriannemarcelle17@gmail.com">adriannemarcelle17@gmail.com</a>
+- 📫 Reach out to me at: <a href="adriannemarcelle17@gmail.com">adriannemarcelle17@gmail.com</a>
 
 ## My Skills Include
 
 <h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ 
+ 
+
+</span>
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+
+
+
+</span>
+
+
+
+
+
+
+
