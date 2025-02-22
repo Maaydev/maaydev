@@ -8,7 +8,8 @@ I am an Information Systems student, currently halfway through my degree. I am e
 - 🌱 I'm currently learning...
   - SQL
   - Angular
-  - PHP
+  - Java
+  - Spring Boot
 - 👯 I look forward to collaborating on open source projects.
 - ✔ Ask me about anything, I'll be happy to help<br>
 - Outside of technology, 📖 I love reading romance and fantasy books, 🎮 playing video games, 🎵 listening to music and 🧘🏻‍♀️ pilates.
